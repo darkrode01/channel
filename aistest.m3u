@@ -77,7 +77,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0022/DNF/V0022.mpd?playbackUrlPrefix=https
 
 #EXTINF:-1 tvg-id="ch0000000000100001044" tvg-name="เอชบีโอ" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134712006706.png" group-title="AIS",เอชบีโอ
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6GhfVrHcDMMn%2Bbl2cMqwkdSQ8XgvvpzrLCBfIAB0U%3D&authinfo=M7bLnjSdHH%2Bk0TufhnqshojpV6nZoskSFyTnCVWqDZHqECHuQEdXm3l4r1zcdwE7
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6GhfVrHcDMMn%2Bbl2cMqwkdSQ8XgvvpzrLCBfIAB0U%3D&authinfo=3ys7umJFr18MSPBqI8Xog9xE3CvsbE9kQhlik14H74z32wcdZNfG%2F4Lhb2mjl0HY
 
 #EXTINF:-1 tvg-id="ch0000000000100001021" tvg-name="เอชบีโอ ซิกเนเจอร์" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134720006707.png" group-title="AIS",เอชบีโอ ซิกเนเจอร์
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
