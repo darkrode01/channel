@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ch0000000000100001041" tvg-name="เอ็นบีที 2 เอชดี" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132546006600.png" group-title="AIS",เอ็นบีที 2 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0001/DNH/V0001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6Mivx%2FFt3MNH2Vl2wPoQwfTw4quP3vyLTEA%2FQGAUM%3D&authinfo=NPZSWxIihPdGwGBBbsK%2FNcd%2FlilEtv95sDtj%2B5cKql5ChkTkN2BANuKzmAJYnpt2o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6GhfVrHcDMMn%2BblmwOrgkRTg0XgvvpzrLCBfIAB0U%3D&authinfo=NPZSWxIihPdGwGBBbsK%2FNcd%2FlilEtv95sDtj%2B5cKql5HEu%2Fs%2B%2Fy3HFIzrrashthwo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-id="ch0000000000100001042" tvg-name="ไทยพีบีเอส เอชดี" tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132617006744.png" group-title="AIS",ไทยพีบีเอส เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
