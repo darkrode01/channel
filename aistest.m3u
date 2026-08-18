@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="ch0000000000100001041" tvg-name="เอ็นบีที 2 เอชดี" tvg-logo="" group-title="AIS",เอ็นบีที 2 เอชดี
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0104/DNH/V0104.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6GhfVrHcDMMn%2BblmwOrAkRTgoXgvvpzrLCBfIAB0U%3D&authinfo=NHrMvYnDBpKyS935Qt74lcd%2FlilEtv95sDtj%2B5cKql4B9NO7QlKdsjnY4XiWjmwBo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DDH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|limitdur=1i6GhfVrHcDMMn%2BblmwOrwwaSwIXgvvpzrLCBfIAB0U%3D&authinfo=NHrMvYnDBpKyS935Qt74lcd%2FlilEtv95sDtj%2B5cKql40wT%2F8taA9jMarETLoxAgWo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-id="ch0000000000100001042" tvg-name="ไทยพีบีเอส เอชดี" tvg-logo="" group-title="AIS",ไทยพีบีเอส เอชดี
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
